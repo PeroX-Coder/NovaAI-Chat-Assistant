@@ -1,0 +1,6 @@
+{
+  "name": "NovaAI Chat Assistant",
+  "description": "Free AI Chatbot Assistant for simple daily tasks, instant answers, text summarization, and structuring complex information without requiring an account.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
